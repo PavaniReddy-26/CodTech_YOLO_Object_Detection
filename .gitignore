@@ -3,4 +3,5 @@ venv311/
 .env
 __pycache__/
 *.pyc
-runs/
+runs/YOLO/models/
+*.pt
