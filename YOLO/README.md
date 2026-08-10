@@ -1,18 +1,5 @@
 # YOLO Object Detection App
 
-![Made with FastAPI](https://img.shields.io/badge/FastAPI-Async%20Web%20Framework-009688?logo=fastapi&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-green?logo=openai)
-
-A modern web application for real-time object detection in images and videos using powerful **YOLO models**. Built with a **FastAPI** backend and a dynamic **JavaScript** frontend.
-
-
-🎥 [Watch Demo on YouTube](https://youtu.be/ONM9z99RVaU)  
-📁 [GitHub Repository](https://github.com/Raafat-Nagy/YOLO-Object-Detection-App)
-
----
-
-## Features
-
 -  Real-time object detection (YOLO11)
 -  Upload image or video easily (drag & drop)
 -  Choose model type: Fast / Balanced / Accurate
@@ -26,8 +13,7 @@ A modern web application for real-time object detection in images and videos usi
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/Raafat-Nagy/YOLO-Object-Detection-App.git
-   cd YOLO-Object-Detection-App
+   git clone https://github.com/PavaniReddy-26/CodTech_YOLO_Object_Detection
 
 2. **Install dependencies**
 
@@ -74,32 +60,12 @@ YOLO-Object-Detection-App/
 
 ---
 
-## Demo
-
-📸 Here’s how it works:
-
-[![Watch the video](https://img.youtube.com/vi/ONM9z99RVaU/hqdefault.jpg)](https://youtu.be/ONM9z99RVaU)
-
----
-
 ## Tech Stack
 
 * **FastAPI** – lightweight Python backend
 * **Ultralytics YOLO** – object detection engine
 * **JavaScript + HTML + CSS** – frontend
 * **Font Awesome** – icons
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
-## Contact
-
-Feel free to reach out or contribute via pull request or issue!
 
 ---
 py -3.12 --version
